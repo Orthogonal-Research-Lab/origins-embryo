@@ -8,4 +8,4 @@
 
 4) Developmental (Braitenberg) vehicles.
 
-5) First-mover games. 
+5) First-mover games (Stackleberg equilibria). 
