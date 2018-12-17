@@ -1,4 +1,4 @@
-Here are a few readings on Braitenberg Vehicles as mentioned in Biosystems, 173, 73-82.  
+Here are a few readings on Braitenberg Vehicles as mentioned in _Biosystems_, 173, 73-82.  
 
 Building a Braitenberg Vehicle (Instructables) [link](https://www.instructables.com/id/Braitenberg-vehicles-1-4-vehicles-that-3mot3/)  
 
