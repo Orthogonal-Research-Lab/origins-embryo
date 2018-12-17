@@ -1,4 +1,4 @@
-Here are a few readings on first-mover games, the Stackleberg model, and sequential games mentioned in [<i>Biosystems</i>, 173, 73-82](https://www.sciencedirect.com/science/article/pii/S0303264718302065?via%3Dihub).  
+Here are a few readings on first-mover games, the Stackleberg model, and sequential games as mentioned in [<i>Biosystems</i>, 173, 73-82](https://www.sciencedirect.com/science/article/pii/S0303264718302065?via%3Dihub).  
 
 MIT OpenCourseware: Basics of Game Theory (Stackleberg Model)   [link](https://ocw.mit.edu/courses/sloan-school-of-management/15-010-economic-analysis-for-business-decisions-fall-2004/recitations/the_bsc_game_thy.pdf)  
 
