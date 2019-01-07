@@ -4,7 +4,7 @@ Stone et.al. [doi:10.6084/m9.figshare.5089558](https://www.researchgate.net/publ
 
 2) Examples of hierarchy and heterarchy in the embryo.
 
-3) Thermodynamics of the embryo.
+3) Artificial Life and the embryo (multicell systems and other approaches).
 
 4) Developmental (Braitenberg) vehicles.
 
