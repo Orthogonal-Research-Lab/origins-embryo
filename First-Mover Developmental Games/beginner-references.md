@@ -13,6 +13,8 @@ First-mover game examples
 
 * Tic-Tac-Toe [link](https://en.wikipedia.org/wiki/Tic-tac-toe), $n^d$ games [link](https://en.wikipedia.org/wiki/Nd_game)  
 
+* general game decision trees [link](https://en.wikipedia.org/wiki/Game_tree)
+
 
 
 
