@@ -6,3 +6,14 @@ Wikipedia: First-mover Advantage   [link](https://en.wikipedia.org/wiki/First-mo
 
 Wikipedia: Sequential Game   [link](https://en.wikipedia.org/wiki/Sequential_game)  
 
+
+First-mover game examples  
+
+* Minesweeper [link](https://en.wikipedia.org/wiki/Minesweeper_(video_game))  
+
+* Tic-Tac-Toe [link](https://en.wikipedia.org/wiki/Tic-tac-toe)  
+
+
+
+
+
