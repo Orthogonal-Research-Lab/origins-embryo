@@ -11,7 +11,7 @@ First-mover game examples
 
 * Minesweeper [link](https://en.wikipedia.org/wiki/Minesweeper_(video_game))  
 
-* Tic-Tac-Toe [link](https://en.wikipedia.org/wiki/Tic-tac-toe)  
+* Tic-Tac-Toe [link](https://en.wikipedia.org/wiki/Tic-tac-toe), n_d games [link](https://en.wikipedia.org/wiki/Nd_game)
 
 
 
