@@ -9,9 +9,9 @@ Wikipedia: Sequential Game   [link](https://en.wikipedia.org/wiki/Sequential_gam
 
 First-mover game examples  
 
-* Minesweeper [link](https://en.wikipedia.org/wiki/Minesweeper_(video_game))  
+* Minesweeper [link](https://en.wikipedia.org/wiki/Minesweeper_(video_game)), first-mover strategy [link](http://www.minesweeper.info/wiki/Strategy)  
 
-* Tic-Tac-Toe [link](https://en.wikipedia.org/wiki/Tic-tac-toe), $n_d$ games [link](https://en.wikipedia.org/wiki/Nd_game)
+* Tic-Tac-Toe [link](https://en.wikipedia.org/wiki/Tic-tac-toe), $n^d$ games [link](https://en.wikipedia.org/wiki/Nd_game)  
 
 
 
